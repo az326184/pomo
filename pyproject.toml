@@ -1,0 +1,26 @@
+[build-system]
+requires      = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name           = "pomo"
+version        = "0.1.0"
+description    = "A PyRatatui terminal UI application"
+readme         = "README.md"
+requires-python = ">=3.10"
+license        = { text = "MIT" }
+dependencies   = [
+    "pyratatui>=0.2.7",
+]
+
+[project.scripts]
+# `pip install .` (or `pip install -e .`) makes this command available globally.
+# `pyratatui install user/pomo` uses this same entry point.
+pomo = "main:main"
+
+[tool.hatch.build.targets.wheel]
+# Flat layout: include main.py directly (no package directory needed)
+include = ["main.py"]
+
+[tool.hatch.build.targets.sdist]
+include = ["main.py", "README.md", "pyproject.toml", ".gitignore"]
