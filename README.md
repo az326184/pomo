@@ -2,13 +2,15 @@
 
 Pomodoro App.
 
+![Screenshot](screenshot.png)
+
 A [PyRatatui](https://github.com/pyratatui/pyratatui) terminal UI application.
 
 ## Quick start
 
 ```bash
 # Clone and run directly
-git clone https://github.com/<your-username>/pomo.git
+git clone https://github.com/pro-grammer-SD/pomo.git
 cd pomo
 pip install .
 python main.py
@@ -17,7 +19,7 @@ python main.py
 Or install it with the PyRatatui app manager:
 
 ```bash
-pyratatui install <your-username>/pomo
+pyratatui install pro-grammer-SD/pomo
 pyratatui run pomo
 ```
 
